@@ -1,0 +1,7 @@
+{
+  "name": "Koko English - Kids AI Tutor",
+  "description": "A conversational English learning app for children aged 5-7 using Gemini Live Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
